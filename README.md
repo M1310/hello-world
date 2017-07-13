@@ -2,4 +2,4 @@
 Testing Repository
 
 
-Testing commits inside github andby extension GitKraken
+Testing commits inside github and by extension GitKraken
